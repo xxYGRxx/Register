@@ -18,7 +18,7 @@ class _MyAppState extends State<MyApp> {
       debugShowCheckedModeBanner: false,
       theme: isDarkMode ? ThemeData.dark() : ThemeData.light(),
       home: Scaffold(
-        appBar: AppBar(title: Text("Dark Mode Light Mysal App")),
+        appBar: AppBar(title: Text("Dark Mode Lightttt Mysal App")),
         body: Center(
           child: Row(
             mainAxisAlignment: MainAxisAlignment.center,
