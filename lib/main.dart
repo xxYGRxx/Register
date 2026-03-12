@@ -41,7 +41,7 @@ class _MyAppState extends State<MyApp> {
   }
 }
 
-// pppclass MyApp extends StatelessWidget {
+// pppclass MyApp extends StatelessWidget {taze uytgedilen
 //   const MyApp({super.key});
 //   @override
 //   Widget build(BuildContext context) {
